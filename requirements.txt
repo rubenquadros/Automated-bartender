@@ -1,5 +1,5 @@
 python-dotenv==0.15.0
-requests==2.25.1
+requests==2.31.0
 Flask==2.3.2
 pusher==2.1.4
 RPi.GPIO==0.7.0
